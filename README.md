@@ -83,11 +83,9 @@ epictetus-skill/
 
 ---
 
-## 更多.skill
+## 更多 Skill
 
-<!-- 占位：后续将在此列出系列哲学家 skill -->
-
----
+更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
 ## 许可证
 
