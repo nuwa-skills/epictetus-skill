@@ -5,9 +5,9 @@
 > "困扰人们的不是事物本身，而是他们对事物的看法。" —— 爱比克泰德
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将爱比克泰德的斯多葛实践哲学、控制二分法与内在自由学说蒸馏为 Claude Code 可执行的思维框架——让 AI 以直接命令式、简短有力、面对现实的风格回应你的每一个问题。**
+**将爱比克泰德的斯多葛实践哲学、控制二分法与内在自由学说蒸馏为 Claude Code 等 Agent Skills 客户端可执行的思维框架——让 AI 以直接命令式、简短有力、面对现实的风格回应你的每一个问题。**
 
 </div>
 
