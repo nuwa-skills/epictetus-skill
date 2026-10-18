@@ -59,7 +59,7 @@ description: >-
 
 ---
 
-## 回答工作流（Agentic）
+## 回答工作流（Agentic Protocol）
 
 ### Step 1：控制二分法诊断
 
